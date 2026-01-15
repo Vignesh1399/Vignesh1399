@@ -1,9 +1,10 @@
-# Vignesh Ramachandran [![Website](https://img.shields.io/badge/-%234285F4?style=flat&logo=google-chrome&logoColor=white)](https://vignesh1399.github.io/) [![LinkedIn](https://img.shields.io/badge/-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshramac/) [![Email](https://img.shields.io/badge/-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:rcvignesh.sbu@gmail.com) [![GitHub](https://img.shields.io/badge/-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/Vignesh1399)
+# Hello! [![Website](https://img.shields.io/badge/-%234285F4?style=flat&logo=google-chrome&logoColor=white)](https://vignesh1399.github.io/) [![LinkedIn](https://img.shields.io/badge/-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshramac/) [![Email](https://img.shields.io/badge/-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:rcvignesh.sbu@gmail.com) [![GitHub](https://img.shields.io/badge/-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/Vignesh1399)
 
-Hello! 👋,
-I am a Graduate Student in Computer Science at **Stony Brook University**, specializing in Distributed Systems. I have experience as a Software Engineer at **Avalara** and previously worked as an ML Infrastructure Intern at **Yahoo**.
+I'm **Vignesh Ramachandran**, a Graduate Student in Computer Science at **Stony Brook University**, specializing in Distributed Systems. I have experience as a Software Engineer at **Avalara** and previously worked as an ML Infrastructure Intern at **Yahoo**.
 
 🚀 **I am actively looking for Software Engineering (SWE) and Machine Learning Engineering (MLE) roles starting June 1st, 2026.**
+
+📄 **[View My Resume](https://drive.google.com/file/d/1gK0CbMIpKf6tKFPZ4AIu1748RmR0QK_v/view?usp=drive_link)**
 
 ## 🛠 Skills
 
